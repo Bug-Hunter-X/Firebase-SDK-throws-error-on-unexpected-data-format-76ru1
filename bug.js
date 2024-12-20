@@ -1,0 +1,1 @@
+The Firebase SDK may throw an error if the data is not in the expected format. For example, if you are expecting a string but the data is an integer, the SDK may throw an error. This can be difficult to debug because the error message may not be very helpful.
